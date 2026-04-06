@@ -1,5 +1,4 @@
-# Process Monitor & Trigger Script (wait_run.sh
-)
+# Process Monitor & Trigger Script (wait_run.sh)
 
 A lightweight bash utility to monitor a running process by its Process ID (PID) and automatically trigger a subsequent task (e.g., model training, data processing) once the original process has terminated.
 等待某個PID結束然後執行需要的指令
